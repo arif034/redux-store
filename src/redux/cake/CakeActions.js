@@ -1,6 +1,4 @@
-import {BUY_CAKE} from "./CakeTypes.js"
-function CakeActions = () => {
-  return {
-    
-  }
+import { BUY_CAKE } from "./CakeTypes.js";
+function CakeActions() {
+  return {};
 }

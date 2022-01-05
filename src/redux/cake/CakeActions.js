@@ -1,4 +1,6 @@
 import { BUY_CAKE } from "./CakeTypes.js";
-function CakeActions() {
-  return {};
-}
+export const CakeActions = () => {
+  return {
+    type: BUY_CAKE
+  };
+};

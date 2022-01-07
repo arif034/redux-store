@@ -1,4 +1,4 @@
-import buyCake from "../redux";
+import { buyCake } from "../redux";
 import { connect } from "react-redux";
 function CakeContainer(props) {
   return (
